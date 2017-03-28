@@ -1,0 +1,17 @@
+c:\users\felip_000\documents\visual studio 2013\Projects\Interface\Interface\bin\Debug\Interface.exe.config
+c:\users\felip_000\documents\visual studio 2013\Projects\Interface\Interface\bin\Debug\Interface.exe
+c:\users\felip_000\documents\visual studio 2013\Projects\Interface\Interface\bin\Debug\Interface.pdb
+c:\users\felip_000\documents\visual studio 2013\Projects\Interface\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+c:\users\felip_000\documents\visual studio 2013\Projects\Interface\Interface\obj\Debug\Interface.Form1.resources
+c:\users\felip_000\documents\visual studio 2013\Projects\Interface\Interface\obj\Debug\Interface.Properties.Resources.resources
+c:\users\felip_000\documents\visual studio 2013\Projects\Interface\Interface\obj\Debug\Interface.csproj.GenerateResource.Cache
+c:\users\felip_000\documents\visual studio 2013\Projects\Interface\Interface\obj\Debug\Interface.exe
+c:\users\felip_000\documents\visual studio 2013\Projects\Interface\Interface\obj\Debug\Interface.pdb
+C:\Users\felip_000\SkyDrive\Engenharia\5\Sistemas Embarcados\Trabalhos\Final\Interface\Interface\bin\Debug\Interface.exe.config
+C:\Users\felip_000\SkyDrive\Engenharia\5\Sistemas Embarcados\Trabalhos\Final\Interface\Interface\obj\Debug\Interface.exe
+C:\Users\felip_000\SkyDrive\Engenharia\5\Sistemas Embarcados\Trabalhos\Final\Interface\Interface\obj\Debug\Interface.pdb
+C:\Users\felip_000\SkyDrive\Engenharia\5\Sistemas Embarcados\Trabalhos\Final\Interface\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\felip_000\SkyDrive\Engenharia\5\Sistemas Embarcados\Trabalhos\Final\Interface\Interface\obj\Debug\Interface.Form1.resources
+C:\Users\felip_000\SkyDrive\Engenharia\5\Sistemas Embarcados\Trabalhos\Final\Interface\Interface\obj\Debug\Interface.Form2.resources
+C:\Users\felip_000\SkyDrive\Engenharia\5\Sistemas Embarcados\Trabalhos\Final\Interface\Interface\obj\Debug\Interface.Properties.Resources.resources
+C:\Users\felip_000\SkyDrive\Engenharia\5\Sistemas Embarcados\Trabalhos\Final\Interface\Interface\obj\Debug\Interface.csproj.GenerateResource.Cache

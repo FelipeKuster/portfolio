@@ -1,0 +1,14 @@
+c:\users\felipe\documents\visual studio 2015\Projects\PLCIFESSystem_Test\PLCIFESSystem_Test\bin\Debug\PLCIFESSystem_Test.exe.config
+c:\users\felipe\documents\visual studio 2015\Projects\PLCIFESSystem_Test\PLCIFESSystem_Test\obj\Debug\PLCIFESSystem_Test.csprojResolveAssemblyReference.cache
+c:\users\felipe\documents\visual studio 2015\Projects\PLCIFESSystem_Test\PLCIFESSystem_Test\bin\Debug\PLCIFESSystem_Test.exe
+c:\users\felipe\documents\visual studio 2015\Projects\PLCIFESSystem_Test\PLCIFESSystem_Test\bin\Debug\PLCIFESSystem_Test.pdb
+c:\users\felipe\documents\visual studio 2015\Projects\PLCIFESSystem_Test\PLCIFESSystem_Test\bin\Debug\S7.Net.pdb
+c:\users\felipe\documents\visual studio 2015\Projects\PLCIFESSystem_Test\PLCIFESSystem_Test\obj\Debug\PLCIFESSystem_Test.exe
+c:\users\felipe\documents\visual studio 2015\Projects\PLCIFESSystem_Test\PLCIFESSystem_Test\obj\Debug\PLCIFESSystem_Test.pdb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\PLCIFESSystem_Test - Copy\PLCIFESSystem_Test\bin\Debug\PLCIFESSystem_Test.exe.config
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\PLCIFESSystem_Test - Copy\PLCIFESSystem_Test\obj\Debug\PLCIFESSystem_Test.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\PLCIFESSystem_Test - Copy\PLCIFESSystem_Test\obj\Debug\PLCIFESSystem_Test.pdb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\PLCIFESSystem_Test - Copy\PLCIFESSystem_Test\bin\Debug\PLCIFESSystem_Test.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\PLCIFESSystem_Test - Copy\PLCIFESSystem_Test\bin\Debug\PLCIFESSystem_Test.pdb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\PLCIFESSystem_Test - Copy\PLCIFESSystem_Test\bin\Debug\S7.Net.pdb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\PLCIFESSystem_Test - Copy\PLCIFESSystem_Test\obj\Debug\PLCIFESSystem_Test.csprojResolveAssemblyReference.cache
