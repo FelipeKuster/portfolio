@@ -19,4 +19,6 @@
 			   Tecnologia da Informação e Comunicação no Monitoramento de Pacientes Portadores de Hipertensão e Diabetes  (CNPq)
 			-> Relatório IEL 2016: Prêmio Estagiário Destaque
 
-*Proteger   			   ->* Snippets: Exemplos de código do Projeto Proteger, uma interface para a criação e armazenamento de estudos de proteção.				  
+*Proteger   			   ->* Snippets: Exemplos de código do Projeto Proteger, uma interface para a criação e armazenamento de estudos de proteção.	
+
+*SO - Controle de Portão   ->* Sistema operacional embarcado em ARMV7 para controle remoto de portão com lógica para um botão.			  

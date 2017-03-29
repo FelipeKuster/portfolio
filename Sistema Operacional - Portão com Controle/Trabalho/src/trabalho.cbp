@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="trabalho" />
+		<Option pch_mode="2" />
+		<Option compiler="arm_toolchain" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/trabalho" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="arm_toolchain" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/trabalho" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="arm_toolchain" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="hardware.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="hardware.h" />
+		<Unit filename="lm4.ld" />
+		<Unit filename="lm4f120h5qr.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.d" />
+		<Unit filename="main.h" />
+		<Unit filename="main.o" />
+		<Unit filename="motor.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="motor.d" />
+		<Unit filename="motor.h" />
+		<Unit filename="motor.o" />
+		<Unit filename="startup.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="startup.d" />
+		<Unit filename="startup.h" />
+		<Unit filename="startup.o" />
+		<Unit filename="trabalho.cbp" />
+		<Unit filename="trabalho.layout" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
